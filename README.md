@@ -7,7 +7,7 @@ O projeto tem como finalidade apresentar etapas de Engenharia, Ciência e Análi
 > [!NOTE]
 > O projeto visa colocar conhecimentos em prática. Ao fazer isso, serviços como Azure e Databricks não seriam visualizados no repositório. Contudo, será incluído evidências de seu uso e como para uma eventual tirada de dúvidas de como fazer o processo e colaborar com a comunidade de como fiz.
 
-Diante destas perguntas, tem-se o [dashboard](https://giovannarmendes.github.io/Recomendador_de_livros/Analise_dos_dados/analise_dos_dados.html) (site para acessar o _dashboard_).
+Diante destas perguntas, tem-se o [dashboard](https://giovannarmendes.github.io/Recomendador_de_livros/Analise_dos_dados/analise_dos_dados.html) que pode ser acessado pelo seguinte site: [https://giovannarmendes.github.io/Recomendador_de_livros/Analise_dos_dados/analise_dos_dados.html](https://giovannarmendes.github.io/Recomendador_de_livros/Analise_dos_dados/analise_dos_dados.html).
 - Quais são os gêneros de livros mais bem avaliados?
 - Quais são os principais livros com esses gêneros;
 - Quais são os gêneros associados a esses livros?
